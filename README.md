@@ -3,7 +3,7 @@ Traefik v2 deployment to kubernetes
 
 # Notes
 
-Copy from my riginal blog post https://blog.ndk.name/kubernetes-and-traefik-v2
+Copy from my original blog post https://blog.ndk.name/kubernetes-and-traefik-v2
 
 Put everything in the same folder, then we can deploy easily with a single command
 
