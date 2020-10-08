@@ -21,7 +21,7 @@ metadata:
   name: traefik-dashboard
 spec:
   entryPoints:
-    - web
+    - websecure
   routes:
     - match: Host(`dashboard.domain.ltd`) && (PathPrefix(`/dashboard`) || PathPrefix(`/api`))
       kind: Rule
